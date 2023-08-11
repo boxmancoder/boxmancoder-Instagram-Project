@@ -21,7 +21,8 @@ header h1 {
 
 div.post {
     background: white;
-    margin-top: 10px;
+    margin-top: 55px;
+    margin-bottom: 55px;
 }
 
 div.post img {
